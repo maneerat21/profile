@@ -12,7 +12,7 @@
 
 ## 🔗 ลิงก์หน้าเว็บที่เผยแพร่แล้ว
 
-👉 **[เปิดดูหน้าเว็บแนะนำตัว](...)**
+👉 **[เปิดดูหน้าเว็บแนะนำตัว](https://maneerat21.github.io/profile/)**
 
 > ⚠️ อย่าลืมแก้ลิงก์ด้านบนให้ตรงกับ `username` และชื่อ repository ของคุณเองก่อนเผยแพร่จริง
 
@@ -28,8 +28,8 @@
 2. เปิดไฟล์ `index.html` ด้วยเบราว์เซอร์
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone (https://github.com/maneerat21/profile.git)
+cd profile
 ```
 
 ## 📄 โครงสร้างไฟล์
